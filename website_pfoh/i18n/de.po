@@ -42,3 +42,9 @@ msgstr "Spendenzweck"
 msgid "Product Name"
 msgstr "Sache Bezeichnung"
 
+#. module: website_sale
+#: model:ir.model,name:website_sale.model_product_product
+#: view:website:website_sale.cart
+#: view:website:website_sale.payment
+msgid "Product"
+msgstr "Spendenzweck"
