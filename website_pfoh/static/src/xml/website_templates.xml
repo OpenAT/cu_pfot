@@ -15,6 +15,11 @@
         </xpath>
     </template>
 
+    <template id="google_webmastertools_site_verification" inherit_id="website.layout" name="Google Webmastertools site verification">
+        <xpath expr="//head//title" position="after">
+            <meta name="google-site-verification" content="google562709996bd977ba.html"/>
+        </xpath>
+    </template>
 <!--
     <template id="website_pfoh.theme" name="website_pfoh Theme" inherit_id="website.theme">
         <xpath expr="//link[last()]" position="after">

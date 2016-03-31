@@ -48,3 +48,8 @@ msgstr "Sache Bezeichnung"
 #: view:website:website_sale.payment
 msgid "Product"
 msgstr "Spendenzweck"
+
+#. module: website_sale
+#: view:website:website_sale.products
+msgid "All Products"
+msgstr "Alle"
