@@ -1,5 +1,16 @@
 /* DEFAULTS available in all webpages */
 /* CUSTOMMER COLOURS */
+@media only screen and (max-width: 414px) {
+  h1 {
+    font-size: 5.0vw;
+  }
+  h2 {
+    font-size: 3.0vh;
+  }
+  p {
+    font-size: 4vmin;
+  }
+}
 div.js_product .label {
   font-size: 58%;
 }
